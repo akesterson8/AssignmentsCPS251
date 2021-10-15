@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelFragment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_name">add name</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="names_will_display_here">Names Will Display Here</string>
+</resources>
